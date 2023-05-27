@@ -1,6 +1,6 @@
 # GPT-QA-doc-bot
 This project is helpful when user needs to feed long pdf files in order to ask questions about the contents of pdf.
-It implements similarity search on vector databases to reduce context size and inference time.
+It implements similarity search on vector databases to reduce context size and inference time. Streamlit is used for local hosting.
 
 ![image](https://github.com/AyushModi123/GPT-QA-doc-bot/assets/99743679/2f1a081f-994d-47ed-a53d-c3e10192f16d)
 
